@@ -1,0 +1,5 @@
+/vendor/
+/storage/logs
+.idea/
+tcpdf.crt
+tcpdf.p12
