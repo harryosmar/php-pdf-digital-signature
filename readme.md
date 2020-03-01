@@ -4,6 +4,10 @@
 ## How to setup & run
 
 ```
+git clone git@github.com:harryosmar/php-pdf-digital-signature.git
+
+cd php-pdf-digital-signature
+
 composer install
 
 # this will generate .pdf file in storage/logs/
