@@ -12,9 +12,11 @@ composer install
 
 # this will generate .pdf file in storage/logs/
 php bin/console.php app:pdf-generate
-
-# Open https://account.ascertia.com/demos/PDFSignatureVerificationStep1 to verify the newly generated file
 ``` 
+
+### Verify generated file pdf signature
+
+Open https://account.ascertia.com/demos/PDFSignatureVerificationStep1 to verify the newly generated file
 
 
 
